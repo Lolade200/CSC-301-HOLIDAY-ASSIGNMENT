@@ -1,0 +1,14 @@
+
+## 🧠 Insertion Sort Steps
+
+1. Insert 8 → compare with 5 → 1 comparison  
+2. Insert 16 → compare with 8 → 1 comparison  
+3. Insert 10 → compare with 16, then 8 → 2 comparisons  
+4. Insert 3 → compare with 16, 10, 8, 5 → 4 comparisons  
+5. Insert 14 → compare with 16, then 10 → 2 comparisons  
+
+## ✅ Total Comparisons: **11**
+
+## 📄 Code
+
+See [`insertionSort.js`](insertionSort.js) for the implementation.

@@ -1,3 +1,8 @@
+
+// Name: Adebayo Ololade Samson 
+// // Matric No: 230502002 // 
+// Department: Computer Science and Math Technology 
+// // Level: 300L
 const array = [5, 8, 16, 10, 3, 14];
 let comparisons = 0;
 
